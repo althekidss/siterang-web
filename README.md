@@ -276,7 +276,7 @@
         </div>
     </div>
 
-    <footer class="footer"><p>&copy; 2024 Si Terang. Semua Hak Dilindungi. #HidupCerahBersama</p></footer>
+    <footer class="footer"><p>&copy; 2025 Si Terang. Semua Hak Dilindungi. #HidupCerahBersama</p></footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
